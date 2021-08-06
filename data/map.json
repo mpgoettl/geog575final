@@ -1,0 +1,21 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","properties":{"OBJECTID":1,"name":"Sam Davey Elementary School","y":44.851617,"x":-91.478764,"Schl_Code":"500"},"geometry":{"type":"Point","coordinates":[-91.478764,44.851617]}},
+{"type":"Feature","properties":{"OBJECTID":2,"name":"Flynn Elementary School","y":44.803565,"x":-91.480102,"Schl_Code":"100"},"geometry":{"type":"Point","coordinates":[-91.480102,44.803565]}},
+{"type":"Feature","properties":{"OBJECTID":3,"name":"Lakeshore Elementary School","y":44.806881,"x":-91.515368,"Schl_Code":"590"},"geometry":{"type":"Point","coordinates":[-91.515368,44.806881]}},
+{"type":"Feature","properties":{"OBJECTID":4,"name":"Locust Lane Elementary School","y":44.853191,"x":-91.462157,"Schl_Code":"220"},"geometry":{"type":"Point","coordinates":[-91.462157,44.853191]}},
+{"type":"Feature","properties":{"OBJECTID":5,"name":"Longfellow Elementary School","y":44.822836,"x":-91.490536,"Schl_Code":"240"},"geometry":{"type":"Point","coordinates":[-91.490536,44.822836]}},
+{"type":"Feature","properties":{"OBJECTID":6,"name":"Manz Elementary School","y":44.792145,"x":-91.485214,"Schl_Code":"280"},"geometry":{"type":"Point","coordinates":[619815.4101304538,44.792145]}},
+{"type":"Feature","properties":{"OBJECTID":7,"name":"Meadowview Elementary School","y":44.768838,"x":-91.469405,"Schl_Code":"350"},"geometry":{"type":"Point","coordinates":[-91.469405,44.768838]}},
+{"type":"Feature","properties":{"OBJECTID":8,"name":"Northwoods Elementary School","y":44.835505,"x":-91.46036,"Schl_Code":"422"},"geometry":{"type":"Point","coordinates":[-91.46036,44.835505]}},
+{"type":"Feature","properties":{"OBJECTID":9,"name":"Putnam Heights Elementary School","y":44.788612,"x":-91.50515,"Schl_Code":"420"},"geometry":{"type":"Point","coordinates":[-91.50515,44.788612]}},
+{"type":"Feature","properties":{"OBJECTID":10,"name":"Robbins Elementary School","y":44.786791,"x":-91.449021,"Schl_Code":"460"},"geometry":{"type":"Point","coordinates":[-91.449021,44.786791]}},
+{"type":"Feature","properties":{"OBJECTID":11,"name":"Roosevelt Elementary School","y":44.830719,"x":-91.521273,"Schl_Code":"480"},"geometry":{"type":"Point","coordinates":[-91.521273,44.830719]}},
+{"type":"Feature","properties":{"OBJECTID":12,"name":"Sherman Elementary School","y":44.820633,"x":-91.55371,"Schl_Code":"520"},"geometry":{"type":"Point","coordinates":[-91.55371,44.820633]}},
+{"type":"Feature","properties":{"OBJECTID":13,"name":"North High School","y":44.8451704036,"x":-91.4829283594,"Schl_Code":"400"},"geometry":{"type":"Point","coordinates":[-91.4829283594,44.8451704036]}},
+{"type":"Feature","properties":{"OBJECTID":14,"name":"Northstar Middle School","y":44.8453148661,"x":-91.466363321,"Schl_Code":"560"},"geometry":{"type":"Point","coordinates":[-91.466363321,44.8453148661]}},
+{"type":"Feature","properties":{"OBJECTID":15,"name":"Memorial High School","y":44.7957160594,"x":-91.4725752104,"Schl_Code":"340"},"geometry":{"type":"Point","coordinates":[-91.4725752104,44.7957160594]}},
+{"type":"Feature","properties":{"OBJECTID":16,"name":"South Middle School","y":44.7809327257,"x":-91.4713713559,"Schl_Code":"540"},"geometry":{"type":"Point","coordinates":[-91.4713713559,44.7809327257]}},
+{"type":"Feature","properties":{"OBJECTID":17,"name":"DeLong Middle School","y":44.8220082424,"x":-91.535416417,"Schl_Code":"170"},"geometry":{"type":"Point","coordinates":[-91.535416417,44.8220082424]}},
+{"type":"Feature","properties":{"OBJECTID":0,"name":"Chippewa Valley Montessori Charter School","y":44.8167986152,"x":-91.5129761053,"Schl_Code":"111"},"geometry":{"type":"Point","coordinates":[-91.5129761053,44.8167986152]}},
+{"type":"Feature","properties":{"OBJECTID":0,"name":"McKinley Charter School","y":44.8288373765,"x":-91.4588429403,"Schl_Code":"580"},"geometry":{"type":"Point","coordinates":[-91.4588429403,44.8288373765]}}
+]}
