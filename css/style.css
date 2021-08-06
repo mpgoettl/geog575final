@@ -1,0 +1,198 @@
+/***** NAVBAR *****/
+.navbar-default {
+  background-color: #0528fb;
+  border-radius: 0;
+  background-image: none;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ebd122;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;
+}
+
+/* Navbar collapsed styles */
+.navbar-header .navbar-toggle {
+  color: #fff;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #ebd122;
+  color: #242424;
+}
+
+.hamburger{
+	background-color: white !important;
+}
+
+#about-world {
+  max-height: 200px;
+}
+
+
+hr {
+  border-color: white;
+  border-width: 2px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: #863ee3;
+}
+
+a:hover {
+  color: #ebd122;
+}
+
+.jumbotron {
+  
+  text-align: center;
+  
+  color: #000000;
+  padding: 1%;
+}
+
+.jumbotron h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Calibri',serif;
+  background-color: gray;
+  color: black;
+}
+
+h4 {
+	font-family: 'Calibri',serif; 
+   	font-weight: bold;
+   	color: black;
+   	text-align: center;
+
+}
+.panel-title {
+	font-size: 20px;
+}
+
+.map {
+	position: relative;
+	left: 10%;
+	border: 1px solid #999;
+	box-shadow: 2px 2px 4px #999;
+	padding: 5px;
+}
+
+.dropdown {
+	position: absolute;
+	left: 30%;
+	font-family: sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 2px;
+	border: 1px solid #999;
+	box-shadow: 2px 2px 4px #999;
+}
+
+.NAcountries {
+	fill: #B6D0E2;
+	stroke: #CCC;
+	stroke-width: 2px;
+}
+
+.regions {
+	stroke: #000;
+	stroke-width: 0.5px;
+	stroke-linecap: round;
+}
+
+.gratBackground {
+       	fill: none;
+	opacity: .25;
+}
+
+.chart {
+	position: relative;
+	left: 10%;
+	border: 1px solid #999;
+	box-shadow: 2px 2px 4px #999;	
+	padding: 5px;
+}
+
+.chartTitle {
+	
+	font-family: sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.chartBackground {
+	fill: none;
+	opacity: .25;
+}
+
+.chartFrame {
+	fill: none;
+	stroke: none;
+	stroke-width: 3px;
+	shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #999;
+	stroke-width: 1px;
+	shape-rendering: crispEdges;
+}
+
+.axis text {
+	font-family: sans-serif;
+	font-size: 1em;
+	fill: #000;
+	font-weight: bold;
+}
+
+option {
+	font-weight: normal;
+}
+
+.infolabel {
+	position: absolute;
+	height: 60px;
+	min-width: 100px;
+	color: #fff;
+	background-color: #000;
+	border: solid thin #fff;
+	padding: 0px 10px;
+	top: -75px;
+}
+
+.infolabel h1 {
+	margin: 0 20px 0 0;
+	padding: 0;
+	display: inline-block;
+	line-height: 1em;
+}
+
+
+
