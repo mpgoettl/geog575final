@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","properties":{"OBJECTID":0,"name":"Chippewa Valley Montessori Charter School","y":44.8167986152,"x":-91.5129761053,"Schl_Code":"111"},"geometry":{"type":"Point","coordinates":[-91.5129761053,44.8167986152]}},
+{"type":"Feature","properties":{"OBJECTID":0,"name":"McKinley Charter School","y":44.8288373765,"x":-91.4588429403,"Schl_Code":"580"},"geometry":{"type":"Point","coordinates":[-91.4588429403,44.8288373765]}}
+]}

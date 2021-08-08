@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","properties":{"OBJECTID":14,"name":"Northstar Middle School","y":44.8453148661,"x":-91.466363321,"Schl_Code":"560"},"geometry":{"type":"Point","coordinates":[-91.466363321,44.8453148661]}},
+{"type":"Feature","properties":{"OBJECTID":16,"name":"South Middle School","y":44.7809327257,"x":-91.4713713559,"Schl_Code":"540"},"geometry":{"type":"Point","coordinates":[-91.4713713559,44.7809327257]}},
+{"type":"Feature","properties":{"OBJECTID":17,"name":"DeLong Middle School","y":44.8220082424,"x":-91.535416417,"Schl_Code":"170"},"geometry":{"type":"Point","coordinates":[-91.535416417,44.8220082424]}}
+]}
