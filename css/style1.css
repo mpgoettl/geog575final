@@ -53,4 +53,22 @@ html, body, #map {
 	left: 150px;
 }
 
+.highschool {
+	fill: #B6D0E2;
+	stroke: #CCC;
+	stroke-width: 2px;
+}
+
+.secondary {
+	fill: #B6D0E2;
+	stroke: #CCC;
+	stroke-width: 2px;
+}
+
+.elementary {
+	fill: #B6D0E2;
+	stroke: #CCC;
+	stroke-width: 2px;
+}
+
 	

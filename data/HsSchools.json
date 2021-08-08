@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","properties":{"OBJECTID":13,"name":"North High School","y":44.8451704036,"x":-91.4829283594,"Schl_Code":"400"},"geometry":{"type":"Point","coordinates":[-91.4829283594,44.8451704036]}},
+{"type":"Feature","properties":{"OBJECTID":15,"name":"Memorial High School","y":44.7957160594,"x":-91.4725752104,"Schl_Code":"340"},"geometry":{"type":"Point","coordinates":[-91.4725752104,44.7957160594]}}
+]}
